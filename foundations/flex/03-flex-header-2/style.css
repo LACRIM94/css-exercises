@@ -51,12 +51,15 @@ ul {
   list-style-type: none;
   display: flex;
   padding-left: 0;
+  gap: 16px;
 }
 
 .left-container {
   display: flex;
+  gap: 16px;
 }
 
 .right-container {
   display: flex;
+  gap: 16px;
 }
