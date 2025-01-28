@@ -12,6 +12,8 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 ul {
@@ -19,6 +21,7 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 15px;
+  padding-left: 10px;
 }
 
 a {
@@ -29,10 +32,6 @@ a {
   text-decoration: none;
 }
 
-.left-links {
-  
-}
-
 .right-links {
-
+  padding-right: 10px;
 }
