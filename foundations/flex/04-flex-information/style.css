@@ -12,6 +12,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  align-self: center;
 }
 
 /* do not edit this footer */
@@ -29,4 +30,8 @@ img {
 
 .image-container {
   display: flex;
+}
+
+.container {
+  width: 200px;
 }
