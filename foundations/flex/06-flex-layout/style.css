@@ -18,6 +18,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 10px;
 }
 
 input {
@@ -38,6 +39,7 @@ input {
   justify-content: center;
   align-items: center;
   flex: auto;
+  gap: 15px;
 }
 
 .footer {
