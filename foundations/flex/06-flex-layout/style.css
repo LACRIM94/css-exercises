@@ -59,9 +59,10 @@ a {
 
 .left-links {
   display: flex;
+  gap: 15px;
 }
 
 .right-links {
   display: flex;
-  
+  gap: 15px;
 }
